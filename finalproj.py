@@ -1,12 +1,8 @@
-# Final Project: Human Mission to Mars Account Setup
-# Date:  6/10/2024
-# Class: DEV108 44480
-# Name: Hengmeng Ly
-
 import csv
 import random
 import string
 import time
+
 MAX_SIZE = 20
 
 # csv file
